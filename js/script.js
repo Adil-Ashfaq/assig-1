@@ -7,6 +7,8 @@ class product {
     }
 }
 
+
+
 let cartitme = [];
 
 let product1 = new product(1, 'egg', 10, 20)
@@ -17,4 +19,3 @@ let product5 = new product(5, 'cold drink', 10, 50)
 
 cartitme = [product1, product2, product3, product4, product5];
 
-console.log(cartitme);
